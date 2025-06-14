@@ -8,17 +8,17 @@ Specializing in VLSI Design and Technology
 ---
 
 ### 🛠️ Currently working on:
-- CTF challenges *(forensics, web)*
+- CTF challenges (forensics, web)
 - The basics of reverse engineering  
 - Understanding low-level architecture using C and assembly  
-- Trying to program at the *asterisks* level possible  
+- Trying to program at the *lowest* level possible  
 
 ---
 
 ### 📚 Learning:
 - Assembly and how it *actually* works  
 - Bash scripting and reversing  
-- Network security *(Wireshark, Burp Suite, Packet Tracer)*  
+- Network security (Wireshark, Burp Suite, Packet Tracer)
 
 ---
 
@@ -35,9 +35,7 @@ Specializing in VLSI Design and Technology
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![BASIC](https://img.shields.io/badge/-BASIC-5C2D91?style=flat&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-~(PHP: ran "hello world" and called it a day, but still learning uwu)~  
-
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  ~(PHP: ran "hello world" and called it a day, but still learning uwu)~  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-4B6C4B?style=flat&logo=linux&logoColor=white)
