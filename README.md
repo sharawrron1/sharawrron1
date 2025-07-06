@@ -9,7 +9,7 @@ Specializing in VLSI Design and Technology
 
 ### 🛠️ Currently working on:
 - CTF challenges (forensics, web)
-- The basics of reverse engineering  
+- The *very* basics of reverse engineering  
 - Understanding low-level architecture using C and assembly  
 - Trying to program at the *lowest* level possible  
 
