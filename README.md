@@ -28,6 +28,9 @@ Specializing in VLSI Design and Technology
 
 ---
 
+### Ongoing projects:
+- A terminal based file change tracker system for Linux, written in Golang.
+
 ### 🔨 I work with:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
