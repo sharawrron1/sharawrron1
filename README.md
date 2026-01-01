@@ -29,7 +29,7 @@ Specializing in VLSI Design and Technology
 ---
 
 ### Ongoing projects:
-- A terminal based file change tracker system for Linux, written in Golang.
+- A terminal based file change tracker system for Linux, written in Golang. (a group project)
 
 ### 🔨 I work with:
 
